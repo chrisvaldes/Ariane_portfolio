@@ -1,0 +1,25 @@
+.ariane-picture {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url("../../public/images/ariane/ariane_pic.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    /* s'assure que width/height s'appliquent */
+    overflow: hidden;
+    /* au cas où */
+}
+
+.avatar1-img {
+    display: block;
+    width: auto;
+    /* prend sa largeur naturelle */
+    height: auto;
+    /* prend sa hauteur naturelle */
+    max-width: 100%;
+    /* pour ne pas dépasser la card */
+    border-radius: 8px;
+
+}
