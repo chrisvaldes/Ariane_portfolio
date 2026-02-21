@@ -43,7 +43,7 @@
     "bootstrap": "5.2.0-beta1",
     "cross-env": "^7.0.3",
     "eslint": "^8.14.0",
-    "fantasticon": "^1.2.3",
+    "fantasticon": "^4.1.0",
     "find-unused-sass-variables": "^4.0.4",
     "hugo-bin": "^0.86.0",
     "lockfile-lint": "^4.7.4",
@@ -56,7 +56,7 @@
     "stylelint-config-twbs-bootstrap": "^3.0.1",
     "svg-sprite": "^2.0.0-beta4",
     "svgo": "^2.8.0",
-    "vnu-jar": "21.10.12"
+    "vnu-jar": "26.2.1"
   },
   "files": [
     "icons/*.svg",
